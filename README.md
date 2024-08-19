@@ -1,4 +1,7 @@
 # Taş-Kağıt-Makas Oyunu
-Bu proje, Global AI Hub tarafından düzenlenen Aygaz Python Bootcamp sonucunda final projesi olarak geliştirilmiştir.
-Kullanılan Teknoloji: Python
+## Projenin amacı <br/>
+Bu proje, Global AI Hub tarafından düzenlenen Aygaz Python Bootcamp sonucunda final projesi olarak geliştirilmiştir. <br/> 
+## Kullanılan Teknoloji <br/>
+Python
+
 
